@@ -23,3 +23,4 @@ Here are a few helpful tips if you are new to coding or exploring this project:
 
 Note: Be careful when coding and ensure your data privacy at all times!
 
+Note: This is for beginners, but advanced ones can check this as a reminder.
