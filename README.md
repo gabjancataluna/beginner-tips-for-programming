@@ -21,3 +21,4 @@ Here are a few helpful tips if you are new to coding or exploring this project:
 
 > **Pro Tip:** Use `console.log()` or `print()` statements to check what values your variables hold while your code runs.
 
+Note: This is for beginners, but advanced ones can check this as a reminder.
